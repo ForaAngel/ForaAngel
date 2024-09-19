@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a metaverse<br>🌱 I’m currently learning React Native and Typescript<br>👯 I am looking to collaborate on immersive experiences<br>📫 How to reach me: elfora.dev@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love Sports ⚽
+🔭 I’m currently working on a videogame<br>🌱 I’m currently learning React Native and Typescript<br>👯 I am looking to collaborate on immersive experiences<br>📫 How to reach me: elfora.dev@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love Sports ⚽
 
 
 ## 🌐 Socials:
